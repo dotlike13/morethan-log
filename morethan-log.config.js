@@ -6,9 +6,9 @@ const CONFIG = {
     role: 'DevOps / Security',
     bio: 'I develop everything using node.',
     email: 'dotlike@kakao.com',
-    linkedin: 'morethanmin',
+    linkedin: '정대-이-798b32190',
     github: 'dotlike13',
-    instagram: '',
+    instagram: '_dotlike',
   },
   projects: [
     {
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: 'https://morethan-log.vercel.app',
-  since: 2022, // If leave this empty, current year will be used.
+  since: 1991, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
